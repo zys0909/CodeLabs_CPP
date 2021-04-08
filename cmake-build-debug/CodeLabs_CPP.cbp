@@ -83,6 +83,9 @@
 		<Unit filename="/Users/Zoey/CodeSpace/CPP/CodeLabs_CPP/main.cpp">
 			<Option target="CodeLabs_CPP"/>
 		</Unit>
+		<Unit filename="/Users/Zoey/CodeSpace/CPP/CodeLabs_CPP/t1.cpp">
+			<Option target="CodeLabs_CPP"/>
+		</Unit>
 		<Unit filename="/Users/Zoey/CodeSpace/CPP/CodeLabs_CPP/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
